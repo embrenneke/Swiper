@@ -21,4 +21,3 @@ The source is all freely available under the MIT license.  All I ask is that you
 let me know if you use it in a commercial setting.
 
 The image assets (photos) are licensed under the Creative Commons BY-NC-ND terms. (Attribution, Noncommercial, NoDerivatives)
-
